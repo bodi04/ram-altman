@@ -1,0 +1,17 @@
+main {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+button {
+  font: inherit;
+  font-size: 24px;
+  font-weight: 600;
+  padding: 16px 40px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
